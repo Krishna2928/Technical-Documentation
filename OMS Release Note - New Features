@@ -1,0 +1,349 @@
+<!doctype html>
+<html>
+ 
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+   <meta content="width=device-width,height=device-height initial-scale=0.5" name="viewport">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <link rel="stylesheet" href="https://use.typekit.net/jbp0ygj.css">
+   <link href="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Email%20Template/jbp0ygj-1.css" rel="stylesheet" type="text/css" />
+   <title>Anchanto</title>
+   <style type="text/css">
+       * {
+           box-sizing: border-box;
+       }
+      
+       body {
+           font-family: Arial, Helvetica, sans-serif;
+       }
+      
+       table,
+       tr,
+       td {
+           padding: 4em 4em;
+       }
+      
+       .wrapper {
+           margin: 0px auto;
+           width: 100%;
+           max-width: 650px;
+           background-color: #fff;
+       }
+      
+       .container,
+       tr,
+       td {
+           padding: 0;
+           margin: 0 auto;
+       }
+      
+       table.benefits {
+           padding: 0 1em;
+       }
+      
+       table.top-benefits tr td {
+           padding: 0;
+       }
+      
+       table.top-benefits .icons {
+           padding-top: 1em;
+       }
+      
+       .icons p {
+           margin-top: 0;
+       }
+      
+       .mobile-banner {
+           margin-bottom: -8px;
+       }
+      
+       .country-list {
+           font-size: 10px;
+       }
+      
+       p {
+           font-size: 14px;
+           color: #151515;
+           font-weight: 400;
+           text-align: justify;
+           font-family: Arial, sans-serif!important;
+       }
+      
+       @media only screen and (max-width: 500px) {
+           body {
+               font-size: 12px
+           }
+           table,
+           tr,
+           td {
+               padding: 0;
+           }
+           table.logo {
+               padding: 1em;
+           }
+           table.benefits {
+               padding: 0 8px;
+           }
+           table.wrapper {
+               padding: 0 8px;
+           }
+           table.wrapper p {
+               font-size: 12px;
+           }
+           table tr td:first-child .innerTable {
+               padding: 0 1em;
+           }
+           p {
+               margin-bottom: 2px!important;
+           }
+           .benefits {
+               padding: 0;
+               margin-bottom: 14px;
+           }
+           .top-benefits p {
+               font-size: 7px;
+               margin: 0;
+           }
+           .country-group {
+               font-size: 3px !important;
+           }
+           .country-group span {
+               display: none;
+           }
+           .width {
+               padding: 1em;
+           }
+           .country-list {
+               font-size: 6px;
+           }
+           table.benefits .icons {
+               padding-top: 0
+           }
+           .innerTable {
+               margin-top: 0;
+               margin-bottom: 0;
+           }
+           .mobile-banner {
+               margin-top: 28px;
+           }
+           table.main-banner tr td {
+               margin-bottom: 0;
+               padding-bottom: 0;
+           }
+           .logo {
+               margin-top: 0;
+           }
+           .productView {
+               vertical-align: top !important;
+           }
+       }
+   </style>
+</head>
+ 
+<body style="background-color: #e2e2e2;font-family: Arial, Helvetica, sans-serif;font-style:normal !important; text-align: left; font-size: 14px ; line-height: 26px; color: #2C315E;">
+   <!-- Preview text (text which appears right after subject in certain email clients) -->
+   <div id="preview_text" style="display:none!important">{% text "preview_text" label="Preview Text <span class=help-text>This will be used as the preview text that displays in some email clients</span>", value="", no_wrapper=True %}</div>
+   <!-- Insert body here -->
+   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="width" style="background-color: #e2e2e2; width:100%; height:auto">
+       <tbody>
+           <tr>
+               <td align="center">
+                   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="main-table darkmode" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important; margin: 0 auto; width: 100%; max-width: 650px; background-color: white; padding: 0; ">
+                       <tbody>
+                           <tr>
+                               <td>
+                                   <table class="logo" width="100%" border="0" cellspacing="0" cellpadding="0" style="padding: 4em 3em;background-color: #131833;position: relative !important;">
+                                       <tbody>
+                                           <tr>
+                                               <td style="width: 70%;">
+                                                   <a href="https://www.anchanto.com" target="_blank">
+                                                       <img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Logo.png" alt="logo" width="300" height="60" style="-webkit-filter: blur(0px);object-fit: contain;" />
+                                                   </a>
+                                               </td>
+                                               <td style="width: 30%;">
+                                                   <a href="https://www.anchanto.com/products/order-management/" target="_blank">
+                                                       <img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Order%20Management/Order%20Management-1.png" alt="logo" width="180" height="60" style="-webkit-filter: blur(0px);object-fit: contain;"
+                                                       />
+                                                   </a>
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                                   <!--  -->
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 3em 6em 0.5em;">
+                                       <tbody>
+                                           <tr>
+                                               <td>
+                                                   <p style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;font-size: 42px; font-weight: 900;line-height: 1.2;">Hello <br> Anchanters!</p>
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 0.5em 6em 0.5em;">
+                                       <tbody>
+                                           <tr>
+                                               <td>
+                                                   <p style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;">Anchanto OMS has now been updated with new features. 
+                                                    Some of these features include In Context Help and Auto Renewal of Account Subsription for an effortless and user friendly experience.                                                    
+ 
+                                                       <br>These new features and enhancements are now live. </br>
+ 
+ 
+                                                   </p>
+                                               </td>
+                                           </tr>
+ 
+                                       </tbody>
+                                   </table>
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 1em 6em 0.5em;">
+                                       <tbody>
+                                           <tr>
+                                               <td style="background-color: #006bff0a;padding:12px 30px;">
+                                                   <h4 style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;border-bottom: 1px solid #006bff;padding-bottom:12px;"><span style="color:#006bff ;">1. In Context Help 
+                                                 </h4>
+                                                 <ul style="padding:0 14px ;">
+
+                                                     <p style="margin:4px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> Anchanto OMS has enabled In-Context Help, a new feature that enables users to access relevant FAQs (frequently asked questions) within the application. Users can click on the Help button at the bottom right corner of the screen to find help related to the functionality they are currently using. In-Context Help also includes glowing beacons and product feature tours to help users focus on and better understand various functionalities. </p>
+                                                     <h4 style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="color:#006bff ;">Referral Document 
+                                                    </span></h4>
+                                                     <ul style="padding:0 14px ;">
+                                                        <li>
+                                                            <p style="margin:4px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.6;">
+                                                                <a href="https://anchantoservice.freshdesk.com/a/solutions/articles/44002425437?portalId=44000108791" target="_blank">Feature Guide and FAQs </a>
+                                                            </p> 
+                                                        </li>
+                                                            <li> <p style="margin:4px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.6;">
+                                                                <a href="https://www.veed.io/view/69b11443-2a22-48a2-a7bb-9d6ac2437bac?panel=share" target="_blank">Video Guide </a>
+                                                            </p>
+                                                        </li>
+                                                    </ul> 
+
+                                             </td>
+                                         </tr>
+                                     </tbody>
+                                 </table>
+                                   
+                                 <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 1em 6em 0.5em;">
+                                    <tbody>
+                                        <tr>
+                                            <td style="background-color: #006bff0a;padding:12px 30px;">
+                                                <h4 style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;border-bottom: 1px solid #006bff;padding-bottom:12px;"><span style="color:#006bff ;">2. Auto Renewal of Account Subscription
+                                              </h4>
+                                              <ul style="padding:0 14px ;">
+
+                                                  <p style="margin:4px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"> The new feature of Automatic Renewal will now be available for all accounts with an expiring subscription. This feature will ensure that our valued subscribers can continue using our platform without any interruption or the hassle of resubscribing to Anchanto OMS. An email will also be sent to all subscribers whose accounts are expiring, with the email being triggered on both ten and five days before the auto-renewal of the subscription. </p>
+                                                  <h4 style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.5;"><span style="color:#006bff ;">Referral Document 
+                                                 </span></h4>
+                                                  <ul style="padding:0 14px ;">
+                                                     <li>
+                                                         <p style="margin:4px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.6;">
+                                                             <a href="https://anchantoservice.freshdesk.com/a/solutions/articles/44002425421?portalId=44000108791" target="_blank">Feature Guide and FAQs </a>
+                                                         </p> 
+                                                     </li>
+        
+                                                 </ul> 
+
+                                          </td>
+                                      </tr>
+                                  </tbody>
+                              </table>
+                                
+                                   
+ 
+                                  
+                                                           
+
+                                             
+ 
+ 
+ 
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 1.5em 6em 0.5em;">
+                                       <tbody>
+                                           <tr>
+                                               <td>
+                                                   <hr style="border-top: 1px dashed;">
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+ 
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="color: #484C70;padding: 1em 6em 2em;">
+                                       <tbody>
+                                           <tr>
+                                               <td>
+                                                   <p style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.8;"><span style="font-weight: 500 !important;"><strong>We hope these features contribute to an effortless user experience for you.</strong></span></p>
+                                                   <p style="margin:10px 0;font-family: Arial, Helvetica, sans-serif;line-height: 1.8;">In case of any queries, please reach out to us through any of our
+                                                       <a href="https://help.anchanto.com/support/solutions/articles/44002288476-what-time-does-anchanto-customer-care-operate-" target="_blank"><span style="color:#006bff ;">Helpline Channels.</span></a>
+                                                   </p>
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                                   <!--  -->
+                                   <table class="wrapper innerTable" width="100%" border="0" cellspacing="0" cellpadding="0" style="padding: 4em 3em 0em;background-color: #131833;position: relative !important;">
+                                       <tbody>
+                                           <tr>
+                                               <td>
+                                                   <a href="https://www.anchanto.com" target="_blank">
+                                                       <img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Logo.png" alt="logo" width="300" height="60" style="-webkit-filter: blur(0px);object-fit: contain;" /></a>
+                                               </td>
+                                               <td style="padding-right:6px;vertical-align:top;padding-top: 6px;">
+                                                   <a href="https://www.facebook.com/anchanto" target="_blank"><img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Facebook.png" alt="facebook" width="30" height="30"></a>
+                                               </td>
+                                               <td style="padding-right:6px;vertical-align:top;padding-top: 6px;">
+                                                   <a href=" https://www.linkedin.com/company/anchanto/" target="_blank"><img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/LinkedIn.png" alt="linkedin" width="30" height="30"></a>
+                                               </td>
+                                               <td style="padding-right:6px;vertical-align:top;padding-top: 6px;">
+                                                   <a href="https://twitter.com/anchantodotcom" target="_blank"><img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Twitter.png" alt="Twitter" width="30" height="30"></a>
+                                               </td>
+                                               <td style="padding-right:6px;vertical-align:top;padding-top: 6px;">
+                                                   <a href="https://www.youtube.com/channel/UCEWx6n0M_ON0tqmKAeNRG6A" target="_blank"><img src="https://5156824.fs1.hubspotusercontent-na1.net/hubfs/5156824/Anchanto%20New%20branding%202022/assets/Images/Youtube.png" alt="linkedin" width="30" height="30"></a>
+                                               </td>
+                                           </tr>
+                                           <tr>
+                                               <td style="padding: 0em 3em;">
+                                                   <p style="color: #ffffff; font-weight:400; font-size: 14px;font-family: Arial, Helvetica, sans-serif;text-align: justify;
+                                                 margin: 2.2em 0em;">Asia-Pacific | Europe | Middle-East</p>
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="padding: 0em 3em 4em;background-color: #131833;position: relative !important;">
+                                       <tbody>
+                                           <tr>
+                                               <td style="padding: 0em 3em;">
+                                                   <p style="color: #ffffff; font-weight:300; font-size: 12px;font-family: Arial, Helvetica, sans-serif;text-align: justify;
+                                                line-height: 1.8; ">This email contains information about Anchanto's research, insights, services, or events. By opening our emails or clicking on links. you agree to our use of cookies and web tracking technology.</p>
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                                   <table class="wrapper innerTable" border="0" cellspacing="0" cellpadding="0" style="padding: 0em;background-color: #131833;position: relative !important;">
+                                       <tbody>
+                                           <tr>
+                                               <td style="background-color:#781831;padding: 4px 60px;">
+                                               </td>
+                                               <td style="background-color:#D43121;padding: 4px 60px;">
+                                               </td>
+                                               <td style="background-color:#EFAD3E;padding: 4px 60px;">
+                                               </td>
+                                               <td style="background-color:#479E40;padding: 4px 60px;">
+                                               </td>
+                                               <td style="background-color:#2724B6;padding: 4px 60px;">
+                                               </td>
+                                           </tr>
+                                       </tbody>
+                                   </table>
+                               </td>
+                           </tr>
+                       </tbody>
+                   </table>
+               </td>
+           </tr>
+       </tbody>
+   </table>
+</body>
+ 
+</html>
